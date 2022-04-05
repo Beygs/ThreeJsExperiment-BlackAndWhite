@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css2?family=Titillium+Web:wght@700&display=swap);
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.random {
+  position: absolute;
+  color: white;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 1rem;
+  text-transform: uppercase;
+  font-family: "Titillium Web", sans-serif;
+  color: #eee;
+  font-size: 6rem;
+  mix-blend-mode: difference;
+}
+
+
+/*# sourceMappingURL=main.css.map*/
