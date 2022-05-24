@@ -1,7 +1,7 @@
 {
     "repository": "#",
     "license": "UNLICENSED",
-    "homepage": ".",
+    "homepage": "/threejs-b-w",
     "scripts": {
         "predeploy": "yarn run build",
         "deploy": "gh-pages -d dist",
