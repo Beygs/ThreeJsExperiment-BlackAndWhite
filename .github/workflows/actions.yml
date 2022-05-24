@@ -29,3 +29,4 @@ jobs:
         password: ${{ secrets.ftp_password }}
         dangerous-clean-slate: true
         local-dir: ./dist/
+        server-dir: threejs-b-w/
