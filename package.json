@@ -1,7 +1,7 @@
 {
     "repository": "#",
     "license": "UNLICENSED",
-    "homepage": "https://beygs.github.io/ThreeJsExperiment-BlackAndWhite",
+    "homepage": ".",
     "scripts": {
         "predeploy": "yarn run build",
         "deploy": "gh-pages -d dist",
